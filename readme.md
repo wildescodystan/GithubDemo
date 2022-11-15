@@ -19,4 +19,4 @@ hier der limped blindtext
 
 siehe auch https://www.markdownguide.org/basic-syntax/
 
-noch der link zu [linkname](http://www.duckduckgo.com) deeer suchmaschine
+noch der link zu [linkname](http://www.duckduckgo.com) _deeer_ suchmaschine
